@@ -1,9 +1,8 @@
 # Wireless-and-Radiotechnology-Course-2026-3d-RadiationPattern
-
-# 3D Radiation Pattern Visualization using MATLAB
+> 3D Radiation Pattern Visualization using MATLAB
 
 ## Student Information
-- **Name:** Min Ko  
+ 
 - **Student ID:** s2312638
 
 ---
